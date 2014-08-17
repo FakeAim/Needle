@@ -1,0 +1,9 @@
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\bin\Debug\Needle.exe.config
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\bin\Debug\Needle.exe
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\bin\Debug\Needle.pdb
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.csprojResolveAssemblyReference.cache
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.frmMain.resources
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.Properties.Resources.resources
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.csproj.GenerateResource.Cache
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.exe
+C:\Users\Calvin\Documents\GitHub\Needle\Needle\Needle\obj\Debug\Needle.pdb
